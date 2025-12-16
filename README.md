@@ -1,4 +1,4 @@
-# Video Streamming
+# Video Streamming Pipeline
 
 Seamless flow for video streaming data pipeline using a **Bronze–Silver–Gold architecture**.
 
